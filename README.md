@@ -20,6 +20,7 @@
 
 - 할 일 추가와 삭제를 할 수 있습니다.
 
+
 ### 🕘 할 일 목록 보기
 
 - 할 일 목록들이 보여집니다.
@@ -32,7 +33,7 @@
 
 ## 와이어프레임
 
-<img width="710" height="580" alt="스크린샷 2025-11-13 18 32 10" src="https://github.com/user-attachments/assets/ee89ffd1-b924-4105-bc44-3439878d6518" />
+<img width="739" height="590" alt="스크린샷 2025-11-14 15 18 00" src="https://github.com/user-attachments/assets/bd658b2d-9ab3-4ceb-9efd-ce2ebf61bba8" />
 
 
 
